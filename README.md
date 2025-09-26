@@ -73,7 +73,7 @@ Since fraud detection requires minimizing false negatives, further work can incl
 
 Clone this repository:
 
-git clone https://github.com/your-username/credit-card-fraud-detection.git
+git clone 
 
 cd credit-card-fraud-detection
 
